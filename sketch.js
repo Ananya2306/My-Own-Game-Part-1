@@ -3,7 +3,7 @@ var canvas;
 function preload(){
 
   tankUp = loadImage("images/tankGU.png");
-  tankDown = loadImage("imagestankGD.png");
+  tankDown = loadImage("images/tankGD.png");
   tankLeft = loadImage("images/tankGL.png");
   tankRight = loadImage("images/tankGR.png");
 
